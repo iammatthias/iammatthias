@@ -7,14 +7,16 @@ Site: https://iammatthias.com
   <br><br>
   <samp>
    Hi! I am Matthias.
-    <br>Based in Long Beach with my wife and daughter. We have a good life together.
-<br>
-Currently at Aspiration. Previously at Surf Air and General Assembly.
+   <br><br>
+    Based in Long Beach with my wife and daughter. We have a good life together.
+   <br><br>
+    Currently at Aspiration. Previously at Surf Air and General Assembly.
   </samp>
 </p>
 
 <details>
  <summary><b> :wave: contact</b></summary>
-twitter.com/iammatthias or me @ iammatthias .com
-  
+  twitter.com/iammatthias
+ <br>
+  me @ iammatthias .com
 </details>
