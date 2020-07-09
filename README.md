@@ -15,8 +15,8 @@ Site: https://iammatthias.com
 </p>
 
 <details>
- <summary><b> :wave: contact</b></summary>
-  twitter.com/iammatthias
+ <summary><b>:wave: contact</b></summary>
+  https://twitter.com/iammatthias
  <br>
   me @ iammatthias .com
 </details>
