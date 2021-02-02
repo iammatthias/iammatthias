@@ -1,6 +1,7 @@
 # iammatthias
 
-Site: https://iammatthias.com
+💻: https://iammatthias.com
+👀: https://iammatthias.com/resume
 
 <p>
   📸 & Digital Marketer
