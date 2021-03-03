@@ -1,5 +1,3 @@
-# iammatthias
-
 💻: https://iammatthias.com  
 👀: https://iammatthias.com/resume
 
