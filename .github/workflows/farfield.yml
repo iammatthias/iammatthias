@@ -1,0 +1,53 @@
+# Keeps the profile README in sync with Farfield: curl one public webhook,
+# splice its sections into README.md between the <!-- ff:* --> markers,
+# commit if anything moved. No secrets — the endpoint only serves what's
+# already public on iammatthias.com.
+
+name: farfield sync
+
+on:
+  schedule:
+    - cron: "17 */6 * * *" # four passes a day
+  workflow_dispatch:
+
+concurrency:
+  group: farfield-sync
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+env:
+  WEBHOOK: https://farfield.systems/api/profile
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Sync README from farfield
+        run: |
+          curl -sf -m 30 -A farfield-readme "$WEBHOOK" -o /tmp/payload.json \
+            || { echo "farfield unreachable — skipping this pass"; exit 0; }
+
+          node - /tmp/payload.json <<'EOF'
+          const fs = require("fs");
+          const sections = JSON.parse(fs.readFileSync(process.argv[2], "utf8")).sections ?? {};
+          let md = fs.readFileSync("README.md", "utf8");
+          const splice = (name, content) => {
+            const re = new RegExp(`(<!-- ff:${name} -->)[\\s\\S]*?(<!-- /ff:${name} -->)`);
+            md = md.replace(re, (_, open, close) => `${open}\n${content.trim()}\n${close}`);
+          };
+          for (const [name, content] of Object.entries(sections))
+            if (typeof content === "string" && content.trim()) splice(name, content);
+          splice("sync", `<sub>synced ${new Date().toISOString().replace("T", " ").slice(0, 16)} UTC</sub>`);
+          fs.writeFileSync("README.md", md);
+          EOF
+
+          git config user.name "farfield-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet && { echo "no drift"; exit 0; }
+          git commit -m "⟳ farfield sync"
+          git push

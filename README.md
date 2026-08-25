@@ -1,20 +1,39 @@
 <h1>:wave: Hi, I am Matthias</h1>
 
 <p>
-  I'm a photographer turned growth technologist. Over the years I've worked in
-  travel, fintech, and ecommerce.
+  I'm a photographer turned growth technologist.
 </p>
 
-<p>
-  These days I run [day---break](https://day---break.com/), a marketing
-  consultancy focused on growth and lifecycle automation.
-</p>
+## Latest
 
-<h2>Contact</h2>
-<ul>
-  <li>https://iammatthias.com/</li>
-  <li>https://iammatthias.com/resume</li>
-  <li>https://warpcast.com/iammatthias</li>
-  <li>https://twitter.com/iammatthias</li>
-  <li>hey @ iammatthias .com</li>
-</ul>
+<!-- ff:feed -->
+<img src="https://blobs.farfield.systems/blobs/bafkreidrpooh36mnu7icjkonwypo3wbvwkrngrynohiymm6bap4gtygsg4" width="480" alt="">
+
+*2026-08-24 · [permalink](https://iammatthias.com/feed/35pihy3bls)*
+<!-- /ff:feed -->
+
+## Recent work
+
+<!-- ff:writing -->
+- **[Now Playing](https://iammatthias.com/posts/1784736733544-now-playing)** `posts` · 2026-07-22 — Putting my Apple Music "Now Playing" on display with a Raspberry Pi and a 64x64 LED matrix.
+- **[Post-UI](https://iammatthias.com/posts/1784126858578-post-ui)** `posts` · 2026-07-15 — Do we still need to ship a frontend?
+- **[Intern](https://iammatthias.com/posts/1781835006151-intern)** `posts` · 2026-06-19 — The Autonomous Intern ships as a Raspberry Pi 5 in a desk-toy case running a stack I didn't pick. I flashed it to Debian Trixie, swapped the whole thing for the Hermes agent with its own built-in memory, and folded it all into one setup script.
+<!-- /ff:writing -->
+
+## Daily
+
+<!-- ff:daily -->
+<a href="https://daily.farfield.systems/art/2026-08-25"><img src="https://daily.farfield.systems/art/2026-08-25.svg" width="480" alt="daily art for 2026-08-25"></a>
+
+*shoal · slate · 2026-08-25*
+<!-- /ff:daily -->
+
+## Contact
+
+- https://iammatthias.com/
+- https://twitter.com/iammatthias
+- hey at iammatthias dot com
+
+<!-- ff:sync -->
+<sub>synced 2026-08-25 23:27 UTC</sub>
+<!-- /ff:sync -->
