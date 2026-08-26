@@ -35,5 +35,5 @@
 - hey at iammatthias dot com
 
 <!-- ff:sync -->
-<sub>synced 2026-08-26 00:28 UTC</sub>
+<sub>synced 2026-08-26 06:28 UTC</sub>
 <!-- /ff:sync -->
