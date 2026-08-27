@@ -15,9 +15,9 @@
 ## Recent work
 
 <!-- ff:writing -->
+- **[Text your tools](https://iammatthias.com/posts/text-your-tools)** `posts` · 2026-08-25 — Wiring a Farfield homelab up to iMessage with Photon and OpenPoke, so slash commands reach personal apps and talking to your agent feels like texting a friend instead of learning another tool.
+- **[On Diffusion](https://iammatthias.com/posts/on-diffusion)** `posts` · 2026-08-20 — From early StyleGAN experiments and latent walks to Mercury 2's fast diffusion language model, and a simulation stripped down until its agents begin coining terms of their own.
 - **[Now Playing](https://iammatthias.com/posts/1784736733544-now-playing)** `posts` · 2026-07-22 — Putting my Apple Music "Now Playing" on display with a Raspberry Pi and a 64x64 LED matrix.
-- **[Post-UI](https://iammatthias.com/posts/1784126858578-post-ui)** `posts` · 2026-07-15 — Do we still need to ship a frontend?
-- **[Intern](https://iammatthias.com/posts/1781835006151-intern)** `posts` · 2026-06-19 — The Autonomous Intern ships as a Raspberry Pi 5 in a desk-toy case running a stack I didn't pick. I flashed it to Debian Trixie, swapped the whole thing for the Hermes agent with its own built-in memory, and folded it all into one setup script.
 <!-- /ff:writing -->
 
 ## Daily
@@ -35,5 +35,5 @@
 - hey at iammatthias dot com
 
 <!-- ff:sync -->
-<sub>synced 2026-08-27 09:23 UTC</sub>
+<sub>synced 2026-08-27 15:57 UTC</sub>
 <!-- /ff:sync -->
