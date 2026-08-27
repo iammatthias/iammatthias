@@ -7,9 +7,9 @@
 ## Latest
 
 <!-- ff:feed -->
-<img src="https://blobs.farfield.systems/blobs/bafkreidrpooh36mnu7icjkonwypo3wbvwkrngrynohiymm6bap4gtygsg4" width="480" alt="">
+<img src="https://blobs.farfield.systems/blobs/bafkreibltoivuzrthyvo5yyp54hmcehfuuod7lg5hw2inptu66b5w3u5sa" width="480" alt="">
 
-*2026-08-24 · [permalink](https://iammatthias.com/feed/35pihy3bls)*
+*2026-08-27 · [permalink](https://iammatthias.com/feed/4q4n6oikjw)*
 <!-- /ff:feed -->
 
 ## Recent work
@@ -35,5 +35,5 @@
 - hey at iammatthias dot com
 
 <!-- ff:sync -->
-<sub>synced 2026-08-27 02:00 UTC</sub>
+<sub>synced 2026-08-27 09:23 UTC</sub>
 <!-- /ff:sync -->
