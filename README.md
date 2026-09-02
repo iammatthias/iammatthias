@@ -7,9 +7,9 @@
 ## Latest
 
 <!-- ff:feed -->
-<img src="https://blobs.farfield.systems/blobs/bafkreibltoivuzrthyvo5yyp54hmcehfuuod7lg5hw2inptu66b5w3u5sa" width="480" alt="">
+<img src="https://blobs.farfield.systems/blobs/bafkreic2s4x6z2foj6nggztatgda5lpzh4w55qnba2h5dtrq7znv664iwe" width="480" alt="">
 
-*2026-08-27 · [permalink](https://iammatthias.com/feed/4q4n6oikjw)*
+*2026-09-02 · [permalink](https://iammatthias.com/feed/vg3fxh2i21)*
 <!-- /ff:feed -->
 
 ## Recent work
@@ -23,9 +23,9 @@
 ## Daily
 
 <!-- ff:daily -->
-<a href="https://daily.farfield.systems/art/2026-09-01"><img src="https://daily.farfield.systems/art/2026-09-01.svg" width="480" alt="daily art for 2026-09-01"></a>
+<a href="https://daily.farfield.systems/art/2026-09-02"><img src="https://daily.farfield.systems/art/2026-09-02.svg" width="480" alt="daily art for 2026-09-02"></a>
 
-*shoal · rust · 2026-09-01*
+*shoal · clay · 2026-09-02*
 <!-- /ff:daily -->
 
 ## Contact
@@ -35,5 +35,5 @@
 - hey at iammatthias dot com
 
 <!-- ff:sync -->
-<sub>synced 2026-09-01 21:02 UTC</sub>
+<sub>synced 2026-09-02 04:34 UTC</sub>
 <!-- /ff:sync -->
