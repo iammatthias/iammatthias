@@ -15,9 +15,9 @@
 ## Recent work
 
 <!-- ff:writing -->
+- **[Whats the frequency, Kenneth?](https://iammatthias.com/posts/whats-the-frequency-kenneth)** `posts` · 2026-08-31 — Cold war style number stations for good little bots built on Ethereum
 - **[Text your tools](https://iammatthias.com/posts/text-your-tools)** `posts` · 2026-08-25 — Wiring a Farfield homelab up to iMessage with Photon and OpenPoke, so slash commands reach personal apps and talking to your agent feels like texting a friend instead of learning another tool.
 - **[On Diffusion](https://iammatthias.com/posts/on-diffusion)** `posts` · 2026-08-20 — From early StyleGAN experiments and latent walks to Mercury 2's fast diffusion language model, and a simulation stripped down until its agents begin coining terms of their own.
-- **[Now Playing](https://iammatthias.com/posts/1784736733544-now-playing)** `posts` · 2026-07-22 — Putting my Apple Music "Now Playing" on display with a Raspberry Pi and a 64x64 LED matrix.
 <!-- /ff:writing -->
 
 ## Daily
@@ -35,5 +35,5 @@
 - hey at iammatthias dot com
 
 <!-- ff:sync -->
-<sub>synced 2026-09-03 11:14 UTC</sub>
+<sub>synced 2026-09-03 16:25 UTC</sub>
 <!-- /ff:sync -->
