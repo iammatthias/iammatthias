@@ -23,9 +23,9 @@
 ## Daily
 
 <!-- ff:daily -->
-<a href="https://daily.farfield.systems/art/2026-09-05"><img src="https://daily.farfield.systems/art/2026-09-05.svg" width="480" alt="daily art for 2026-09-05"></a>
+<a href="https://daily.farfield.systems/art/2026-09-06"><img src="https://daily.farfield.systems/art/2026-09-06.svg" width="480" alt="daily art for 2026-09-06"></a>
 
-*shoal · heath · 2026-09-05*
+*shoal · lichen · 2026-09-06*
 <!-- /ff:daily -->
 
 ## Contact
@@ -35,5 +35,5 @@
 - hey at iammatthias dot com
 
 <!-- ff:sync -->
-<sub>synced 2026-09-05 20:20 UTC</sub>
+<sub>synced 2026-09-06 04:39 UTC</sub>
 <!-- /ff:sync -->
