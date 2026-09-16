@@ -7,9 +7,9 @@
 ## Latest
 
 <!-- ff:feed -->
-<img src="https://blobs.farfield.systems/blobs/bafkreic2s4x6z2foj6nggztatgda5lpzh4w55qnba2h5dtrq7znv664iwe" width="480" alt="">
+> "Agent Orbit Event Relay"
 
-*2026-09-02 · [permalink](https://iammatthias.com/feed/vg3fxh2i21)*
+*2026-09-16 · [permalink](https://iammatthias.com/feed/k8piin316r)*
 <!-- /ff:feed -->
 
 ## Recent work
@@ -35,5 +35,5 @@
 - hey at iammatthias dot com
 
 <!-- ff:sync -->
-<sub>synced 2026-09-16 16:55 UTC</sub>
+<sub>synced 2026-09-16 21:18 UTC</sub>
 <!-- /ff:sync -->
