@@ -7,9 +7,11 @@
 ## Latest
 
 <!-- ff:feed -->
-> "Agent Orbit Event Relay"
+> Plotting self portraits
 
-*2026-09-16 · [permalink](https://iammatthias.com/feed/k8piin316r)*
+<img src="https://blobs.farfield.systems/blobs/bafkreigz3pjps225t27rlg73gdwmrfcgm7vai6jccicroyqasexkazk3ie" width="480" alt="">
+
+*2026-09-28 · [permalink](https://iammatthias.com/feed/3xd3gx877w)*
 <!-- /ff:feed -->
 
 ## Recent work
@@ -35,5 +37,5 @@
 - hey at iammatthias dot com
 
 <!-- ff:sync -->
-<sub>synced 2026-09-28 13:55 UTC</sub>
+<sub>synced 2026-09-28 23:16 UTC</sub>
 <!-- /ff:sync -->
