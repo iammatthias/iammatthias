@@ -17,19 +17,19 @@
 ## Recent work
 
 <!-- ff:writing -->
+- **[NOTHING](https://iammatthias.com/art/1790902528593-nothing)** `art` · 2026-10-02
+- **[Own The Means of Cognition](https://iammatthias.com/posts/1789494942000-own-the-means-of-cognition)** `posts` · 2026-09-15 — Own the means of cognition and you don't need a ministry of truth, the modal in everyone's pocket does the job.
 - **[Whats the frequency, Kenneth?](https://iammatthias.com/posts/1788199665000-whats-the-frequency-kenneth)** `posts` · 2026-08-31 — Cold war style number stations for good little bots built on Ethereum
-- **[Text your tools](https://iammatthias.com/posts/1787671012000-text-your-tools)** `posts` · 2026-08-25 — Wiring a Farfield homelab up to iMessage with Photon and OpenPoke, so slash commands reach personal apps and talking to your agent feels like texting a friend instead of learning another tool.
-- **[On Diffusion](https://iammatthias.com/posts/1787249855000-on-diffusion)** `posts` · 2026-08-20 — From early StyleGAN experiments and latent walks to Mercury 2's fast diffusion language model, and a simulation stripped down until its agents begin coining terms of their own.
 <!-- /ff:writing -->
 
 ## Daily
 
 <!-- ff:daily -->
-<a href="https://daily.farfield.systems/2026-10-01"><img src="https://daily.farfield.systems/art/2026-10-01.svg" width="480" alt="daily art for 2026-10-01"></a>
+<a href="https://daily.farfield.systems/2026-10-02"><img src="https://daily.farfield.systems/art/2026-10-02.svg" width="480" alt="daily art for 2026-10-02"></a>
 
-*shoal · cyanotype · 2026-10-01*
+*shoal · midnight · 2026-10-02*
 
-[hub](https://daily.farfield.systems/2026-10-01) · [photo](https://daily.farfield.systems/photo/2026-10-01) · [art](https://daily.farfield.systems/art/2026-10-01) · [sudoku](https://daily.farfield.systems/sudoku/2026-10-01) · [wordle](https://daily.farfield.systems/wordle/2026-10-01)
+[hub](https://daily.farfield.systems/2026-10-02) · [photo](https://daily.farfield.systems/photo/2026-10-02) · [art](https://daily.farfield.systems/art/2026-10-02) · [sudoku](https://daily.farfield.systems/sudoku/2026-10-02) · [wordle](https://daily.farfield.systems/wordle/2026-10-02)
 <!-- /ff:daily -->
 
 ## Contact
@@ -39,5 +39,5 @@
 - hey at iammatthias dot com
 
 <!-- ff:sync -->
-<sub>synced 2026-10-01 22:41 UTC</sub>
+<sub>synced 2026-10-02 05:37 UTC</sub>
 <!-- /ff:sync -->
