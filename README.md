@@ -7,9 +7,9 @@
 ## Latest
 
 <!-- ff:feed -->
-<img src="https://wsrv.nl/?url=https%3A%2F%2Fblobs.farfield.systems%2Fblobs%2Fbafkreidwz2lnuanogdmlhp3cgl4xqoibyu77awqlwxlfla4fegsiblyazm&amp;w=960&amp;q=80" width="480" alt="">
+<img src="https://wsrv.nl/?url=https%3A%2F%2Fblobs.farfield.systems%2Fblobs%2Fbafkreiev7qz4zhusxsjwlpggz4uocvcgjzvvlifrmvdkr2ev7fc2iomewq&amp;w=472&amp;q=80" width="236" alt=""> <img src="https://wsrv.nl/?url=https%3A%2F%2Fblobs.farfield.systems%2Fblobs%2Fbafkreic6yrwwdss4bbver3kiep2qdev2dxd2qr3xhccrvpg4ax4aozwi2i&amp;w=472&amp;q=80" width="236" alt="">
 
-*2026-10-04 · [permalink](https://iammatthias.com/feed/5st9l6c3mi)*
+*2026-10-09 · [permalink](https://iammatthias.com/feed/1hmyfx9dfq)*
 <!-- /ff:feed -->
 
 ## Recent work
@@ -37,5 +37,5 @@
 - hey at iammatthias dot com
 
 <!-- ff:sync -->
-<sub>synced 2026-10-09 13:17 UTC</sub>
+<sub>synced 2026-10-09 22:38 UTC</sub>
 <!-- /ff:sync -->
