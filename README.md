@@ -1,7 +1,7 @@
 <h1>:wave: Hi, I am Matthias</h1>
 
 <p>
-  I'm a photographer turned growth technologist.
+  Professional bot wrangler. I take a lot of pictures.
 </p>
 
 ## Latest
