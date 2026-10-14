@@ -7,9 +7,9 @@
 ## Latest
 
 <!-- ff:feed -->
-<img src="https://wsrv.nl/?url=https%3A%2F%2Fblobs.farfield.systems%2Fblobs%2Fbafkreiev7qz4zhusxsjwlpggz4uocvcgjzvvlifrmvdkr2ev7fc2iomewq&amp;w=472&amp;q=80" width="236" alt=""> <img src="https://wsrv.nl/?url=https%3A%2F%2Fblobs.farfield.systems%2Fblobs%2Fbafkreic6yrwwdss4bbver3kiep2qdev2dxd2qr3xhccrvpg4ax4aozwi2i&amp;w=472&amp;q=80" width="236" alt="">
+> Flash → WebGPU
 
-*2026-10-09 · [permalink](https://iammatthias.com/feed/1hmyfx9dfq)*
+*2026-10-14 · [permalink](https://iammatthias.com/feed/c8np5ll28j)*
 <!-- /ff:feed -->
 
 ## Recent work
@@ -23,11 +23,11 @@
 ## Daily
 
 <!-- ff:daily -->
-<a href="https://daily.farfield.systems/2026-10-13"><img src="https://daily.farfield.systems/art/2026-10-13.svg" width="480" alt="daily art for 2026-10-13"></a>
+<a href="https://daily.farfield.systems/2026-10-14"><img src="https://daily.farfield.systems/art/2026-10-14.svg" width="480" alt="daily art for 2026-10-14"></a>
 
-*shoal · clay · 2026-10-13*
+*shoal · heath · 2026-10-14*
 
-[hub](https://daily.farfield.systems/2026-10-13) · [photo](https://daily.farfield.systems/photo/2026-10-13) · [art](https://daily.farfield.systems/art/2026-10-13) · [sudoku](https://daily.farfield.systems/sudoku/2026-10-13) · [wordle](https://daily.farfield.systems/wordle/2026-10-13)
+[hub](https://daily.farfield.systems/2026-10-14) · [photo](https://daily.farfield.systems/photo/2026-10-14) · [art](https://daily.farfield.systems/art/2026-10-14) · [sudoku](https://daily.farfield.systems/sudoku/2026-10-14) · [wordle](https://daily.farfield.systems/wordle/2026-10-14)
 <!-- /ff:daily -->
 
 ## Contact
@@ -37,5 +37,5 @@
 - hey at iammatthias dot com
 
 <!-- ff:sync -->
-<sub>synced 2026-10-13 22:45 UTC</sub>
+<sub>synced 2026-10-14 04:54 UTC</sub>
 <!-- /ff:sync -->
