@@ -23,11 +23,11 @@
 ## Daily
 
 <!-- ff:daily -->
-<a href="https://daily.farfield.systems/2026-10-18"><img src="https://daily.farfield.systems/art/2026-10-18.svg" width="480" alt="daily art for 2026-10-18"></a>
+<a href="https://daily.farfield.systems/2026-10-19"><img src="https://daily.farfield.systems/art/2026-10-19.svg" width="480" alt="daily art for 2026-10-19"></a>
 
-*shoal · sepia · 2026-10-18*
+*shoal · graphite · 2026-10-19*
 
-[hub](https://daily.farfield.systems/2026-10-18) · [photo](https://daily.farfield.systems/photo/2026-10-18) · [art](https://daily.farfield.systems/art/2026-10-18) · [sudoku](https://daily.farfield.systems/sudoku/2026-10-18) · [wordle](https://daily.farfield.systems/wordle/2026-10-18)
+[hub](https://daily.farfield.systems/2026-10-19) · [photo](https://daily.farfield.systems/photo/2026-10-19) · [art](https://daily.farfield.systems/art/2026-10-19) · [sudoku](https://daily.farfield.systems/sudoku/2026-10-19) · [wordle](https://daily.farfield.systems/wordle/2026-10-19)
 <!-- /ff:daily -->
 
 ## Contact
@@ -37,5 +37,5 @@
 - hey at iammatthias dot com
 
 <!-- ff:sync -->
-<sub>synced 2026-10-18 20:43 UTC</sub>
+<sub>synced 2026-10-19 04:40 UTC</sub>
 <!-- /ff:sync -->
