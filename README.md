@@ -15,9 +15,9 @@
 ## Recent work
 
 <!-- ff:writing -->
+- **[This is your sign](https://iammatthias.com/posts/1793118574479-this-is-your-sign)** `posts` · 2026-10-27 — You can add it with one meta tag.
 - **[Datamosh](https://iammatthias.com/art/1791519648658-datamosh)** `art` · 2026-10-09 — An iOS app
 - **[Own The Means of Cognition](https://iammatthias.com/posts/1789494942000-own-the-means-of-cognition)** `posts` · 2026-09-15 — Own the means of cognition and you don't need a ministry of truth, the modal in everyone's pocket does the job.
-- **[Whats the frequency, Kenneth?](https://iammatthias.com/posts/1788199665000-whats-the-frequency-kenneth)** `posts` · 2026-08-31 — Cold war style number stations for good little bots built on Ethereum
 <!-- /ff:writing -->
 
 ## Daily
@@ -37,5 +37,5 @@
 - hey at iammatthias dot com
 
 <!-- ff:sync -->
-<sub>synced 2026-10-27 12:11 UTC</sub>
+<sub>synced 2026-10-27 18:00 UTC</sub>
 <!-- /ff:sync -->
