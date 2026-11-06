@@ -7,7 +7,7 @@
 ## Latest
 
 <!-- ff:feed -->
-> Factoring in pen swaps, it should take a little under 6 hours to plot on an A3 sheet.
+> Revisiting every minute of my office in 2025.
 >
 > | Metric | Value |
 > |---|---|
@@ -16,8 +16,10 @@
 > | Strokes | 11,756 |
 > | Ink | 130.5 m |
 > | Paper | A3 52 GSM Tomoe River |
+>
+> Including pen swaps, this took 4:50:57 to fully plot
 
-<img src="https://wsrv.nl/?url=https%3A%2F%2Fblobs.farfield.systems%2Fblobs%2Fbafkreieoihj3cnxwiyfhetvtmw444k2hrqnst3w6r7n32ap6g7sypjrrpq&amp;w=960&amp;q=80" width="480" alt="">
+<img src="https://wsrv.nl/?url=https%3A%2F%2Fblobs.farfield.systems%2Fblobs%2Fbafkreieoihj3cnxwiyfhetvtmw444k2hrqnst3w6r7n32ap6g7sypjrrpq&amp;w=472&amp;q=80" width="236" alt=""> <img src="https://wsrv.nl/?url=https%3A%2F%2Fblobs.farfield.systems%2Fblobs%2Fbafkreic6oogfmsikyvdwzhobubkal5cm4kd2u7sxlr4agotmygugprcyyi&amp;w=472&amp;q=80" width="236" alt="">
 
 *2026-11-05 · [permalink](https://iammatthias.com/feed/s4psydkmmx)*
 <!-- /ff:feed -->
@@ -33,11 +35,11 @@
 ## Daily
 
 <!-- ff:daily -->
-<a href="https://daily.farfield.systems/2026-11-05"><img src="https://daily.farfield.systems/art/2026-11-05.svg" width="480" alt="daily art for 2026-11-05"></a>
+<a href="https://daily.farfield.systems/2026-11-06"><img src="https://daily.farfield.systems/art/2026-11-06.svg" width="480" alt="daily art for 2026-11-06"></a>
 
-*shoal · heath · 2026-11-05*
+*shoal · ochre · 2026-11-06*
 
-[hub](https://daily.farfield.systems/2026-11-05) · [photo](https://daily.farfield.systems/photo/2026-11-05) · [art](https://daily.farfield.systems/art/2026-11-05) · [sudoku](https://daily.farfield.systems/sudoku/2026-11-05) · [wordle](https://daily.farfield.systems/wordle/2026-11-05)
+[hub](https://daily.farfield.systems/2026-11-06) · [photo](https://daily.farfield.systems/photo/2026-11-06) · [art](https://daily.farfield.systems/art/2026-11-06) · [sudoku](https://daily.farfield.systems/sudoku/2026-11-06) · [wordle](https://daily.farfield.systems/wordle/2026-11-06)
 <!-- /ff:daily -->
 
 ## Contact
@@ -47,5 +49,5 @@
 - hey at iammatthias dot com
 
 <!-- ff:sync -->
-<sub>synced 2026-11-05 19:56 UTC</sub>
+<sub>synced 2026-11-06 06:45 UTC</sub>
 <!-- /ff:sync -->
