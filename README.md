@@ -49,5 +49,5 @@
 - hey at iammatthias dot com
 
 <!-- ff:sync -->
-<sub>synced 2026-11-27 00:39 UTC</sub>
+<sub>synced 2026-11-27 06:30 UTC</sub>
 <!-- /ff:sync -->
